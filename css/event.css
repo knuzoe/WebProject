@@ -40,12 +40,12 @@ header ul button{margin: 5px; position: absolute; top: 50.5px;}
 
 #wrap3{width: 1290px; height: 1000px; top: 270px; left: 250px; position: absolute;}
 #wrap3 h1{color: #464646;}
-#wrap3 li{font-size: 20px; list-style: none; width: 1200px; height: 200px; outline-style: solid; outline-color: #464646; outline-width: 5px; margin-bottom: 10px; margin-top: 10px;}
+#wrap3 li{font-size: 20px; list-style: none; width: 1200px; height: 200px; outline-style: solid; outline-color: #000000; outline-width: 5px; margin-bottom: 10px; margin-top: 10px;}
 #wrap3 h1{margin-left: 20px; font-size: 30px;}
-#wrap3 strong{margin: 40px; margin-top: 10px; font-size: 40px; color: #464646;}
+#wrap3 strong{margin: 40px; margin-top: 10px; font-size: 40px; color: #000000;}
 #wrap3 .page{position: absolute; left: 1090px; width: 150px; height: 40px;}
-#wrap3 a{position: absolute; margin-left: 50px; text-decoration-line: none; color: #464646; font-size: 29px;}
-#wrap3 a:hover{color: #000000;}
+#wrap3 a{position: absolute; margin-left: 50px; text-decoration-line: none; color: #000000; font-size: 29px;}
+#wrap3 a:hover{color: #464646;}
 
 
 
